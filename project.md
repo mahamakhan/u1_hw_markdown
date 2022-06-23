@@ -41,9 +41,9 @@
 
 ### **_Checklist for trips in 2022_**
 
-- Big Sur
-- Sequoia
-- ~~Half Dome~~
+- [ ] Big Sur
+- [ ] Sequoia
+-  ~~Half Dome~~
 - [ ] Kashmir
 - [x] Hunza
 
